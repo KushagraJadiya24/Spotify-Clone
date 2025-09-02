@@ -1,9 +1,9 @@
-🎵 Spotify Clone
+###🎵 Spotify Clone###
 
 A static frontend clone of Spotify built using HTML and CSS
 This project focuses only on the UI and basic interactivity, without any backend or real Spotify integration.
 
-🚀 Features
+##🚀 Features##
 
 🎨 Spotify-inspired UI
 
@@ -13,7 +13,7 @@ This project focuses only on the UI and basic interactivity, without any backend
 
 📱 Responsive design (works on desktop & mobile)
 
-🛠️ Tech Stack
+##🛠️ Tech Stack##
 
 HTML5 – Structure of the website
 
